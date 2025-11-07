@@ -9,7 +9,7 @@ Source PDF: https://www.ijfmr.com/papers/2024/3/22870.pdf
 
 ## What's inside
 - Classical ML: SVM, Random Forest (feature-based: Welch PSD + time stats)
-- Deep Learning: 1D CNN, LSTM, CNN+LSTM (toy training loop)
+- Deep Learning: 1D CNN, LSTM, CNN+LSTM
 - CLI with Typer, unit tests, docs, and GitHub Actions
 
 ## Quickstart
