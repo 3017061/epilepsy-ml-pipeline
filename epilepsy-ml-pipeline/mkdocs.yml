@@ -1,0 +1,16 @@
+site_name: Epilepsy ML Pipeline
+repo_url: https://github.com/3017061/epilepsy-ml-pipeline
+theme:
+  name: material
+nav:
+  - Home: index.md
+plugins:
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_source: false
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
